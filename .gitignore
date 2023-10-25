@@ -2,3 +2,6 @@ venv/
 tmp/
 logs/
 output/
+docker-compose.yaml
+Dockerfile
+
