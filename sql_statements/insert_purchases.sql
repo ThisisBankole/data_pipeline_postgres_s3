@@ -1,0 +1,10 @@
+INSERT INTO customer_purchases (id, product, price, customer_id) VALUES (10, 'Bread', 10, 11);
+INSERT INTO customer_purchases (id, product, price, customer_id) VALUES (20, 'Milk', 20, 11);
+INSERT INTO customer_purchases (id, product, price, customer_id) VALUES (13, 'Garri', 100, 20);
+INSERT INTO customer_purchases (id, product, price, customer_id) VALUES (14, 'Milk', 300, 20);
+INSERT INTO customer_purchases (id, product, price, customer_id) VALUES (15, 'Chicken', 100, 30);
+INSERT INTO customer_purchases (id, product, price, customer_id) VALUES (16, 'Milo', 250, 30);
+INSERT INTO customer_purchases (id, product, price, customer_id) VALUES (17, 'Ram', 100, 41);
+INSERT INTO customer_purchases (id, product, price, customer_id) VALUES (18, 'Straw', 200, 60);
+INSERT INTO customer_purchases (id, product, price, customer_id) VALUES (19, 'Fish', 100, 51);
+INSERT INTO customer_purchases (id, product, price, customer_id) VALUES (90, 'Wine', 20, 51);
